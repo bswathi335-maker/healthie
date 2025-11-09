@@ -56,14 +56,6 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge)
 
-```python
-# Core Technologies
-Django 5.2.7      → Robust web framework with built-in security
-Python 3.13       → High-performance data processing
-PostgreSQL        → Scalable database with JSON support
-Redis            → Caching and real-time features
-Celery           → Asynchronous task processing
-
 🏗️ System Architecture
 ┌─────────────────┐    ┌──────────────────┐    ┌─────────────────┐
 │   Frontend      │    │   Django API     │    │   AI Engine     │
@@ -99,6 +91,8 @@ https://img.shields.io/badge/PostgreSQL-14+-336791?logo=postgresql&logoColor=whi
 https://img.shields.io/badge/Redis-6+-DC382D?logo=redis&logoColor=white
 
 Installation
+
+'''python
 # Clone repository
 git clone https://github.com/your-username/healthie.git
 
@@ -132,3 +126,7 @@ Our Beta Testers for invaluable feedback and suggestions
 🔔 Follow me on LinkedIn for more innovative projects and tech insights!
 
 "TRANSFORMING HEALTH TRACKING FROM A CHORE INTO A ENGAGING AND REWARDING JOURNEY ." 🏥✨
+
+
+
+
