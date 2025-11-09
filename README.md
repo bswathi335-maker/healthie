@@ -176,17 +176,7 @@ graph TB
     style C fill:#f59e0b
     style D fill:#3b82f6
     style E fill:#ef4444
------
 
-##📦 Installation
-🎯 Prerequisites
-<div align="center">
-https://img.shields.io/badge/Python-3.8%252B-3776AB?logo=python&logoColor=white
-https://img.shields.io/badge/PostgreSQL-12%252B-336791?logo=postgresql&logoColor=white
-https://img.shields.io/badge/Redis-6%252B-DC382D?logo=redis&logoColor=white
-https://img.shields.io/badge/Git-Required-F05032?logo=git&logoColor=white
-
-</div>
 
 
 
