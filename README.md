@@ -20,6 +20,8 @@
 
 ---
 
+##LIVE DEMO: https://hjqc483d-8000.inc1.devtunnels.ms/
+
 ## 📖 Table of Contents
 - [🌟 Overview](#-overview)
 - [🚀 Features](#-features)
@@ -151,6 +153,12 @@
 </div>
 
 ---
+## 📦 Installation
+
+### 🎯 **Prerequisites**
+- Python 3.8+
+- PostgreSQL 12+
+- Redis 6+
 
 ## 🏗️ Architecture
 
