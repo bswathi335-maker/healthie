@@ -29,7 +29,7 @@
 - [ Architecture](#️-architecture)
 - [ Installation](#-installation)
 - [Usage](#-usage)
-- [📄 License](#-license)
+- [ License](#-license)
 
 ---
 
