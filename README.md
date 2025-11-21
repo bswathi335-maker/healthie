@@ -1,4 +1,4 @@
-# 🏥 Healthie - AI-Powered Health Tracking & Wellness Platform
+#  Healthie - AI-Powered Health Tracking & Wellness Platform
 
 <div align="center">
 
@@ -22,18 +22,18 @@
 
 ##LIVE DEMO: https://hjqc483d-8000.inc1.devtunnels.ms/
 
-## 📖 Table of Contents
-- [🌟 Overview](#-overview)
-- [🚀 Features](#-features)
-- [🛠️ Tech Stack](#️-tech-stack)
-- [🏗️ Architecture](#️-architecture)
-- [📦 Installation](#-installation)
-- [🎯 Usage](#-usage)
+## Table of Contents
+- [ Overview](#-overview)
+- [Features](#-features)
+- [ Tech Stack](#️-tech-stack)
+- [ Architecture](#️-architecture)
+- [ Installation](#-installation)
+- [Usage](#-usage)
 - [📄 License](#-license)
 
 ---
 
-## 🌟 Overview
+## Overview
 
 **Healthie** transforms personal health management from a chore into an engaging, rewarding journey. By combining cutting-edge AI analytics with proven behavioral psychology principles, we help users build lasting health habits through:
 
@@ -46,7 +46,7 @@
 
 ---
 
-## 🚀 Features
+##  Features
 
 ### 🎮 **Gamification & Engagement**
 <div align="center">
@@ -62,7 +62,7 @@
 - **📈 Health Score** - Comprehensive wellness scoring algorithm
 - **🎯 Smart Reminders** - Context-aware notifications based on your patterns
 
-### 🧠 **AI-Powered Intelligence**
+###  **AI-Powered Intelligence**
 <div align="center">
 
 ![Machine Learning](https://img.shields.io/badge/🤖_ML_Insights-Pattern_Recognition-9D4EDD?style=for-the-badge)
@@ -71,12 +71,12 @@
 
 </div>
 
-- **🔍 Pattern Recognition** - Automatic correlation discovery between health metrics
-- **📊 Predictive Analytics** - Forecast mood, energy, and sleep quality trends
-- **💡 Smart Recommendations** - Personalized health advice based on your data
-- **🎛️ Adaptive Learning** - System improves recommendations over time
+- **Pattern Recognition** - Automatic correlation discovery between health metrics
+- **Predictive Analytics** - Forecast mood, energy, and sleep quality trends
+- **Smart Recommendations** - Personalized health advice based on your data
+- **Adaptive Learning** - System improves recommendations over time
 
-### 📊 **Comprehensive Health Tracking**
+### **Comprehensive Health Tracking**
 <div align="center">
 
 ![Sleep Analytics](https://img.shields.io/badge/💤_Sleep_Analysis-Quality_Metrics-4CC9F0?style=for-the-badge)
@@ -91,7 +91,7 @@
 - **🍎 Nutrition Logging** - Integrated with Open Food Facts database
 - **📝 Custom Metrics** - Personalizable tracking for unique health goals
 
-### 🎨 **User Experience Excellence**
+### **User Experience Excellence**
 <div align="center">
 
 ![Responsive Design](https://img.shields.io/badge/📱_Responsive-All_Devices-4361EE?style=for-the-badge)
@@ -100,17 +100,17 @@
 
 </div>
 
-- **📱 Progressive Web App** - Installable, works offline
-- **🎨 Dark/Light Themes** - Customizable interface preferences
-- **⚡ Real-time Updates** - Live data synchronization
-- **🔍 Advanced Filtering** - Smart data exploration tools
-- **📤 Data Export** - Export your health data in multiple formats
+- **Progressive Web App** - Installable, works offline
+- ** Dark/Light Themes** - Customizable interface preferences
+- ** Real-time Updates** - Live data synchronization
+- **Advanced Filtering** - Smart data exploration tools
+- ** Data Export** - Export your health data in multiple formats
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 🎯 **Backend Technologies**
+### **Backend Technologies**
 <div align="center">
 
 ![Django](https://img.shields.io/badge/Django-5.2.7-092E20?logo=django&logoColor=white&style=for-the-badge)
@@ -121,7 +121,7 @@
 
 </div>
 
-### 🎨 **Frontend Technologies**
+###  **Frontend Technologies**
 <div align="center">
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5.1-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)
@@ -132,7 +132,7 @@
 
 </div>
 
-### 🤖 **AI & Data Science**
+###  **AI & Data Science**
 <div align="center">
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge)
@@ -142,7 +142,7 @@
 
 </div>
 
-### 🛠️ **Development & DevOps**
+### **Development & DevOps**
 <div align="center">
 
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
@@ -153,14 +153,14 @@
 </div>
 
 ---
-## 📦 Installation
+##  Installation
 
-### 🎯 **Prerequisites**
+### **Prerequisites**
 - Python 3.8+
 - PostgreSQL 12+
 - Redis 6+
 
-## 🏗️ Architecture
+##  Architecture
 
 ```mermaid
 graph TB
